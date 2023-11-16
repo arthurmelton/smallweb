@@ -4226,6 +4226,7 @@ https://housedillon.com/atom.xml
 https://houseofkyle.com/feed/
 https://houserat.net/feed/
 https://hoverbear.org/rss.xml
+https://howardism.org/index.xml
 https://howtosavetheworld.ca/feed/
 https://hpjansson.org/blag/feed/
 https://hswolff.com/rss.xml
@@ -10620,4 +10621,3 @@ https://ztpala.com/feed.xml
 https://zverok.space/feed.xml
 https://zwclose.github.io/feed.xml
 https://zwischenzugs.com/feed
-https://howardism.org/index.xml
